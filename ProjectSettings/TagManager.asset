@@ -19,6 +19,7 @@ TagManager:
   - AutoRevert_Concrete
   - AutoPumpAndRevert_Concrete
   - Surface_Grass
+  - Decal
   layers:
   - Default
   - TransparentFX
@@ -28,22 +29,22 @@ TagManager:
   - UI
   - 
   - 
+  - Character
+  - Ragdoll
   - PostProcessing
-  - UM_Layer
-  - 
-  - 
+  - Skateboard
   - Grindable
-  - 
-  - 
-  - 
+  - GrindTriggers
+  - IgnoreRaycast
+  - RagdollNoInternalCollision
   - Coping
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - EncinitasPark
+  - NoCollision
+  - Props
+  - CopingDetection
   - 
   - 
   - 
